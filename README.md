@@ -1,0 +1,1 @@
+El presente proyecto, creado en lenguage java, permite crear manejar el inventario de varios productos para una tienda. Basado en la guía 2 de la materia desarrollo de software, de la Universidad Ean. ¡Que lo disfuten!.
